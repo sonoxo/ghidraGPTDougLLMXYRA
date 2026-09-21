@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite this preprint."
+title: "From Search Sets to Reusable Architectures: A Provenance-Preserving Ontology for AI-Assisted Patent Intelligence in USPTO Patent Public Search"
+type: article
+version: 0.1.0
+date-released: 2026-09-21
+authors:
+  - name: "Almighty Sonoxo"
+keywords:
+  - patent intelligence
+  - USPTO
+  - ontology
+  - provenance
+  - knowledge graph
+  - patent text mining
+license: CC-BY-4.0
